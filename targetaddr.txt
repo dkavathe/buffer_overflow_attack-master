@@ -1,0 +1,5 @@
+exploit_1: 0xbffff270
+exploit_2: 0xbffff270
+exploit_3_1000: 0xbff1a740
+exploit_3_10000: 0xbff16ed0
+exploit_3_100000:0xbfb1f6b0
